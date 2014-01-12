@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head lang="{% if page.language %}{{ page.language }}{% else %}en{% endif %}">
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>
+        {% if page.title %}
+            {{ page.title }} |
+        {% endif %}
+        smaxtr&#x00e6;dition
+    </title>
+    <link rel="stylesheet" href="/css/reset.css" />
+    <link rel="stylesheet" href="/css/default.css" />
+    <link rel="stylesheet" href="/css/highlighting.css" />
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,400,700' rel='stylesheet' type='text/css'>
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+    <script src="/js/jquery.fitvids.js"></script>
+    <script>
+        $(document).ready(function(){
+            $(".video").fitVids();
+        });
+    </script>
+</head>
+<body>
+    <header id="masthead" role="banner">
+        <h1 id="masthead-title">
+            <a href="/">smaxtr&#x00e6;dition</a>
+        </h1>
+    </header>
+    
+    {% if page.category %}
+        {% include post.html %}
+    {% else %}
+        {{ content }}
+    {% endif %}
+
+    <footer id="colophon">&copy; <a href="yuanjun.tk">yuanjun</a></footer>
+</body>
+</html>

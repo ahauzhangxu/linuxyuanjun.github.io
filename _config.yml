@@ -1,2 +1,5 @@
 bmarkdown: rdiscount
 pygments: true
+auto: true
+server: true
+permalink: none

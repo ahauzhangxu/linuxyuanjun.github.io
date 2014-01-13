@@ -2,6 +2,7 @@
 layout: default
 title: Blog-Description
 ---
+[![logo](/favicon.ico)](http://agronomyinfo.tk/)
 <p>{{ page.title}}</p>
 
 ###1. 域名信息:

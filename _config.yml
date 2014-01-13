@@ -1,1 +1,2 @@
-baseurl: /linuxyuanjun.github.io
+bmarkdown: rdiscount
+pygments: true

@@ -3,7 +3,7 @@ layout: default
 title: Blog-Description
 ---
 
-###1. ÓòÃûĞÅÏ¢
+###1. åŸŸåä¿¡æ¯
 ####[ 1 ] Domain Panel:
     Domain Name        Type    Status        Reg.Date        Exp.Date
     agronomyinfo.tk    Free    Authorized    25/12/2013    25/12/2014
@@ -11,7 +11,7 @@ title: Blog-Description
     Type                Host Name            IP Address
     A Record        agronomyinfo.tk        204.232.175.78
     A Record        www.agronomyinfo.tk    204.232.175.78
-####[ 3 ] ÓòÃûº¬Òå:
-    agronomy : "Å©Ñ§"
-    info : È«³ÆÎªinformation ¡°ĞÅÏ¢¡±
-    tk : talker "½¡Ì¸µÄÈË"
+####[ 3 ] åŸŸåå«ä¹‰:
+    agronomy : "å†œå­¦"
+    info : å…¨ç§°ä¸ºinformation â€œä¿¡æ¯â€
+    tk : talker "å¥è°ˆçš„äºº"

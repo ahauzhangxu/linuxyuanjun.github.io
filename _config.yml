@@ -1,2 +1,3 @@
 safe:        false
 auto:        false
+baseurl:     .

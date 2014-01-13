@@ -2,6 +2,7 @@
 layout: default
 title: Blog-Description
 ---
+<p>{{ page.title}}</p>
 
 ###1. 域名信息:
 ####[ 1 ] Domain Panel:
@@ -15,3 +16,5 @@ title: Blog-Description
     agronomy : "农学"
     info : 全称为information “信息”
     tk : talker "健谈的人"
+
+<p>{{ page.date | date_to_string }}</p>

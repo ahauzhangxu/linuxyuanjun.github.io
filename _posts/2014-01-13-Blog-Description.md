@@ -3,7 +3,7 @@ layout: default
 title: Blog-Description
 ---
 
-###1. 域名信息
+###1. 域名信息:
 ####[ 1 ] Domain Panel:
     Domain Name        Type    Status        Reg.Date        Exp.Date
     agronomyinfo.tk    Free    Authorized    25/12/2013    25/12/2014

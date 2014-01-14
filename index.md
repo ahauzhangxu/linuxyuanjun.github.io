@@ -1,6 +1,6 @@
 ---
 layout: default
-title: agronomyinfo.tk
+title: blog
 ---
 
 <div id="home">

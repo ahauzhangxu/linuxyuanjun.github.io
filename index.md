@@ -1,10 +1,9 @@
 ---
 layout: default
-title: blog
+title: agronomyinfo's blog
 ---
 
 <div id="home">
-<h2>{{ page.title }}</h2>
 <p>最新文章</p>
 <ul class="posts">
   {% for post in site.posts %}

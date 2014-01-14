@@ -4,8 +4,9 @@ title: agronomyinfo's blog
 ---
 
 <div id="home">
-<p>最新文章</p>
+
 <ul class="posts">
+  <p>最新文章</p>
   {% for post in site.posts %}
     <li><span>更新时间 : {{ post.date | date_to_string }}</span> &raquo; <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
   {% endfor %}

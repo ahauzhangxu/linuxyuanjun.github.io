@@ -3,8 +3,6 @@ layout: default
 title: Blog-Description
 ---
 
-<p>{{ page.title}}</p>
-
 ###1. 域名信息:
 ####[ 1 ] Domain Panel:
     Domain Name        Type    Status        Reg.Date        Exp.Date

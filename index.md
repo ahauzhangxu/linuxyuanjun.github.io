@@ -3,8 +3,6 @@ layout: default
 title: agronomyinfo.tk
 ---
 
-[![logo](/favicon.ico)](http://agronomyinfo.tk/)  
-
 <div id="home">
 <h2>{{ page.title }}</h2>
 <p>最新文章</p>
@@ -14,3 +12,4 @@ title: agronomyinfo.tk
   {% endfor %}
 </ul>
 </div>
+[![logo](/favicon.ico)](http://agronomyinfo.tk/)

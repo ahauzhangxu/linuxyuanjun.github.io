@@ -2,7 +2,7 @@
 layout: default
 title: ubuntu soft
 ---
-[![logo](/favicon.ico)](http://agronomyinfo.tk/)
+
 ####{{ page.title }}
 	
 ####\[00\] [Git](http://zh.wikipedia.org/wiki/Git)

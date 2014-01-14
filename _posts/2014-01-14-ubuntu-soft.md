@@ -18,7 +18,7 @@ title: ubuntu soft
 	sudo apt-get install fcitx-sogoupinyin
 	
 ###\[ 5 \] [坚果云](http://wiki.linuxdeepin.com/index.php?title=%E5%9D%9A%E6%9E%9C%E4%BA%91)
-	[nautilus_nutstore_amd64.deb](https://jianguoyun.com/static/exe/installer/ubuntu/nautilus_nutstore_amd64.deb)
+###[nautilus_nutstore_amd64.deb](https://jianguoyun.com/static/exe/installer/ubuntu/nautilus_nutstore_amd64.deb)
 	
 ###\[ 6 \] [WizNote](http://www.wiz.cn/index.html)
 	sudo add-apt-repository ppa:wiznote-team
@@ -26,7 +26,7 @@ title: ubuntu soft
 	sudo apt-get install wiznote
 	
 ###\[ 7 \] [Mendeley](http://en.wikipedia.org/wiki/Mendeley)
-	[mendeleydesktop_1.10.1-stable_amd64.deb](http://download.mendeley.com/apt/pool/main/m/mendeleydesktop/mendeleydesktop_1.10.1-stable_amd64.deb)
+###[mendeleydesktop_1.10.1-stable_amd64.deb](http://download.mendeley.com/apt/pool/main/m/mendeleydesktop/mendeleydesktop_1.10.1-stable_amd64.deb)
 	
 ###\[ 8 \] [GIMP](http://zh.wikipedia.org/wiki/GIMP)
 	sudo apt-get install gimp

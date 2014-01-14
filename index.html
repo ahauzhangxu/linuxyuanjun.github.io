@@ -6,7 +6,7 @@ title: agronomyinfo's blog
 <div id="home">
 <ul class="posts">
   <li style="color:#f57124">[最新文章]</li>
-  <hr style="height:2px;border-width:0;color:gray;background-color:gray"/>
+  <hr style="height:3px;border-width:0;color:gray;background-color:#eeeeee"/>
   <br />
   {% for post in site.posts %}
     <li><span>更新时间 : {{ post.date | date_to_string }}</span> &raquo; <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>

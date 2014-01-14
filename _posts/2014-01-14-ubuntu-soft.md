@@ -26,8 +26,10 @@ title: ubuntu soft
 `nautilus_nutstore_amd64.deb`[文件](https://jianguoyun.com/static/exe/installer/ubuntu/nautilus_nutstore_amd64.deb)
 	
 ####\[06\] [WizNote](http://www.wiz.cn/index.html)
-`sudo add-apt-repository ppa:wiznote-team`
-`sudo apt-get update`
+`sudo add-apt-repository ppa:wiznote-team`  
+
+`sudo apt-get update`  
+
 `sudo apt-get install wiznote`
 	
 ####\[07\] [Mendeley](http://en.wikipedia.org/wiki/Mendeley)

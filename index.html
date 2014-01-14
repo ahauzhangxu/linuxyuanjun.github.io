@@ -5,8 +5,6 @@ title: My blog
 
 <div id="home">
 <ul class="posts">
-  <hr style="height:4px;border-width:0;color:gray;background-color:#eeeeee"/>
-  <br />
   {% for post in site.posts %}
     <li><span>更新时间 : {{ post.date | date_to_string }}</span> &raquo; <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
   {% endfor %}

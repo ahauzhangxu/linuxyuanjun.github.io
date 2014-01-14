@@ -11,7 +11,7 @@ title: ubuntu soft
 [vim]: <http://zh.wikipedia.org/zh-cn/Vim>
 	sudo apt-get install vim
 	
-###[ 3 ] [chromium](http://zh.wikipedia.org/wiki/Chromium)
+### 3  [chromium](http://zh.wikipedia.org/wiki/Chromium)
 	sudo apt-get install chromium-browser
 	
 ###[ 4 ] 搜狗拼音

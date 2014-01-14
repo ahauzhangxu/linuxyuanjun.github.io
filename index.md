@@ -12,4 +12,3 @@ title: agronomyinfo.tk
   {% endfor %}
 </ul>
 </div>
-[![logo](/favicon.ico)](http://agronomyinfo.tk/)

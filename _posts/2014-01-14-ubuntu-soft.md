@@ -8,7 +8,7 @@ title: ubuntu soft
 	sudo apt-get install terminator
 
 ###[ 2 ][vim] [] 
-	[vim]: <http://zh.wikipedia.org/zh-cn/Vim>
+[vim]: <http://zh.wikipedia.org/zh-cn/Vim>
 	sudo apt-get install vim
 	
 ###[ 3 ] [chromium](http://zh.wikipedia.org/wiki/Chromium)

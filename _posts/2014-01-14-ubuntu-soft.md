@@ -3,8 +3,6 @@ layout: default
 title: ubuntu soft
 ---
 
-####{{ page.title }}
-	
 ####\[00\] [Git](http://zh.wikipedia.org/wiki/Git)
 `sudo apt-get install git`
 	

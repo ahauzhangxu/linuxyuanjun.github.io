@@ -18,7 +18,8 @@ title: ubuntu soft
 `sudo apt-get install chromium-browser`
 	
 ####\[04\] 搜狗拼音
-`sudo add-apt-repository ppa:fcitx-team/nightly && sudo apt-get update`
+`sudo add-apt-repository ppa:fcitx-team/nightly && sudo apt-get update`  
+
 `sudo apt-get install fcitx-sogoupinyin`
 	
 ####\[05\] [坚果云](http://wiki.linuxdeepin.com/index.php?title=%E5%9D%9A%E6%9E%9C%E4%BA%91)
